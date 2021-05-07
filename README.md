@@ -36,7 +36,7 @@ Please fill up the Google form here and we'll get in touch if we find a good fit
 ## FAQ
 
 <details>
-<summary>Who are you?</summary>
+<summary> Who are you?</summary>
 <br>
 I'm a designer from Tanzu Act who is helping explore how Tanzu Act projects can be sustained in Singapore. 
 </details>
