@@ -1,14 +1,21 @@
 # Volunteer With Tanzu Act
-Readme for developers interested in volunteering to maintain non-profit sites and apps
+Readme for developers or organisations interested in volunteering engineering support to help build and maintain non-profit sites and apps.
 
 ## What's this about?
 
 [Tanzu Act](https://tanzu.vmware.com/act) (previously known as Pivotal Act) has worked with non-profits internationally to help them with digital solutions to problems like human trafficking, empowering youth, and connecting caregivers with help during covid.
 
+A problem we've found is that after building apps or sites for non-profits, they tend to have trouble maintaining them, as they don't have a development team or expertise within their company.
 
+We're experimenting with a model of having an engineer or an organisation adopt a non-profit to help with site maintainence. 
+
+## How does that benefit me?
+
+Portfolio
+Organisation's name
 
 ## How do I sign up for it?
-Please fill up the Google form here
+Please fill up the Google form here and we'll get in touch if there's a good fit!
 
 
 ## FAQ
