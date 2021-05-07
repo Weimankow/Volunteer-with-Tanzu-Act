@@ -44,7 +44,7 @@ I'm a designer from Tanzu Act who is helping explore how Tanzu Act projects can 
 <details>
 <summary> How do I know you're really from Tanzu Labs and not trying to steal my info?</summary>
 <br>
-Feel free to check out my [Linkedin Profile](https://www.linkedin.com/in/weimankow/) here.
+Feel free to check out my [Linkedin Profile] (https://www.linkedin.com/in/weimankow/) here.
 </details>
 
 <details>
@@ -56,6 +56,6 @@ No, we have projects all over the world, from UK, US, to Europe.
 <details>
 <summary> What does 'maintain' mean?</summary>
 <br>
-No, we have projects all over the world, from UK, US, to Europe.
+This will be different for different projects. It can be as simple as updating the software used when there's an update, to fixing bugs when things break, to helping the non-profit change or update features. The level of commitment can be discussed when a volunteer-project match has been identified. 
 </details>
 
