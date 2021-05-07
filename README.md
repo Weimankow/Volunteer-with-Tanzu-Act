@@ -28,7 +28,7 @@ When our engagement with the non-profit ends, the volunteer or volunteer organis
 As this is an experiment, and it might be a while before we start contacting volunteers - perhaps end of 2021 or later. 
 
 ## How do I sign up for it?
-Please fill up the Google form here and we'll get in touch if we find a good fit!
+Please fill up [the Google form here](https://forms.gle/6eEw4HKcTBkPv3NF9) and we'll get in touch if we find a good fit!
 
 
 ## FAQ
