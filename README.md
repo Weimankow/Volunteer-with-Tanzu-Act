@@ -21,13 +21,11 @@ When Tanzu Act starts a new project, we will contact volunteers whose skills mat
 
 The volunteer will work with our engineers on and off on building the app or site, so that they are familiar with the code base, and get to learn and practice pair programming on a real life project in Tanzu Labs.
 
-When our engagement with the non-profit ends, 
+When our engagement with the non-profit ends, the volunteer or volunteer organisation will take over the maintainance of the app or site.
 
 ## What do I need to be aware of?
 
 As this is an experiment, and it might be a while before we start contacting volunteers - perhaps end of 2021 or later. 
-
-
 
 ## How do I sign up for it?
 Please fill up the Google form here and we'll get in touch if we find a good fit!
